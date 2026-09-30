@@ -49,7 +49,7 @@ The project includes both the physical inspection hardware and a supporting digi
 https://5gweldsight.vercel.app/
 
 📺 **Complete Demonstration Playlist**
-https://youtu.be/aHHZ_67c-zQ
+https://www.youtube.com/playlist?list=PLXbtUDOIGtPg
 
 ## Technology Stack
 
